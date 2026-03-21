@@ -1,6 +1,6 @@
 # Single-Page-HTML-CV
 
-Project Live URL: https://ryanskg.github.io/Curriculo-em-HTML/
+Project Live URL: https://ryanskg.github.io/Single-Page-HTML-CV/
 
 Este projeto é um currículo vitae (CV) de uma página, construído com HTML5 semântico. Ele demonstra o uso correto de elementos estruturais de HTML para criar um layout de currículo claro, acessível e bem organizado.
 
