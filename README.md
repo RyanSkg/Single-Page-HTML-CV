@@ -1,6 +1,6 @@
 # Single-Page-HTML-CV
 
-Project Live URL: https://ryanskg.github.io/Single-Page-HTML-CV/
+Project Live URL: https://roadmap.sh/projects/single-page-cv
 
 This project is a single-page curriculum vitae (CV) built using semantic HTML5. It demonstrates the correct use of structural HTML elements to create a clear, accessible, and well-organized resume layout.
 
